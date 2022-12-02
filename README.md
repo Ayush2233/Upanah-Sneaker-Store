@@ -1,16 +1,14 @@
-# Upanah-Sneaker-Store
+# `<Upanah- Sneaker Store Project>`
 
-<style>H1{color:Blue;}</style>
-This is a Sneaker store ecommerce website project built using HTML CSS and Javascript.
-This project uses Node js framework and Handlebars view engine.
+This is a Sneaker store ecommerce website project built using **HTML, CSS** and **Javascript**. This project uses **Node js** framework and **Handlebars** view engine.strikethrough text
 
 
-# Steps to Run the Project
+#  Steps to Run the Project
 
-1. <font color="green"> Clone the Repository (Make sure you have node js installed already)</font>
+ -  <font color="green"> Clone the Repository (Make sure you have node js installed already)</font>
+ -<font color="purple"> Install the libraries **express, hbs , path** in the root folder using the `npm i library_name` command.</font>
+ - <font color="purple">Now go into the src directory using `cd src`.</font>
+ - <font color="purple">Then run the command `node index.js` in the terminal.</font>
 
-2. Install express , hbs , path in the root folder.
-
-3. Now go into the src directory using `cd src`.
-
-4. Then run the command `node index.js` in the terminal.
+## Project Demo
+[Upanah-Walk in Style](https://ayush2233.github.io/)
