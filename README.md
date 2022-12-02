@@ -1,4 +1,6 @@
 # Upanah-Sneaker-Store
+
+<style>H1{color:Blue;}</style>
 This is a Sneaker store ecommerce website project built using HTML CSS and Javascript.
 This project uses Node js framework and Handlebars view engine.
 
